@@ -58,6 +58,12 @@ git, rubymine, rails, and docker kodigo para sa ulianin
 - Alt + K
   > clear terminal
 
+## Files
+- Alt + Shift + .
+  > show/hide hidden files
+- touch <file>
+  > create file
+
 ## rails
 
 - rails c
