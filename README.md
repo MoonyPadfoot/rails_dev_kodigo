@@ -58,3 +58,9 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > pasok sa loob ng rails console
 - exit
   > labas sa rails console
+- rails g migration <create_articles>
+  > gawa ng migration file pang gawa ng table
+- rails db:migrate
+  > i execute yung laman ng migration
+- rails db:rollback
+  > i reverse ang previous migration
