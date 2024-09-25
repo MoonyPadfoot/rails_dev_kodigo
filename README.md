@@ -40,6 +40,8 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > pag bagong project i build
 - docker-compose exec <app_name> bash
   > pasok sa terminal ng docker dito mag rurun ng rails na command
+- dkrmf
+  > remove all containers
 
 ## rubymine
 
