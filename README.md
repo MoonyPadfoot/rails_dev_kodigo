@@ -51,6 +51,10 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > highlight muna para ma select lahat ng kapareha na word
 - Alt + Windows key + L
   > format code
+- Alt + L
+  > clear inside irb
+- Alt + K
+  > clear terminal
 
 ## rails
 
@@ -64,3 +68,9 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > i execute yung laman ng migration
 - rails db:rollback
   > i reverse ang previous migration
+- reload!
+  > refresh ang rails console for changes
+- <model_object>.errors.full_messages
+  > show errors sa model object
+- rails routes --expanded
+  > show routes sa terminal in table form
