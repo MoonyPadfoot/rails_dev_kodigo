@@ -57,6 +57,14 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > clear inside irb
 - Alt + K
   > clear terminal
+- yarn
+  > dl dependencies
+- rails assets:clean
+  > Remove old compiled assets
+- rails assets:clobber
+  > Remove compiled assets
+- rails assets:precompile
+  > Compile all the assets named in config.assets.precompile
 
 ## Files
 - Alt + Shift + .
