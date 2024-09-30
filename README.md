@@ -90,3 +90,5 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > show errors sa model object
 - rails routes --expanded
   > show routes sa terminal in table form
+- reload!
+  > reloads model data in console
