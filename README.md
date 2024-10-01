@@ -57,14 +57,6 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > clear inside irb
 - Alt + K
   > clear terminal
-- yarn
-  > dl dependencies
-- rails assets:clean
-  > Remove old compiled assets
-- rails assets:clobber
-  > Remove compiled assets
-- rails assets:precompile
-  > Compile all the assets named in config.assets.precompile
 
 ## Files
 - Alt + Shift + .
@@ -90,5 +82,11 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > show errors sa model object
 - rails routes --expanded
   > show routes sa terminal in table form
-- reload!
-  > reloads model data in console
+- yarn
+  > dl dependencies
+- rails assets:clean
+  > Remove old compiled assets
+- rails assets:clobber
+  > Remove compiled assets
+- rails assets:precompile
+  > Compile all the assets named in config.assets.precompile
