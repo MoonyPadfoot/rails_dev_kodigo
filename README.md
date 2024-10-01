@@ -27,6 +27,14 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > patungo sa github ang files
 - git commit --amend
   > ung last commit na <description> pwede mong baguhin
+- git checkout -b <name_of_branch>
+  > gawa ng branch locally
+- git branch
+  > list lahat ng branch
+- git branch -d <name_of_branch>
+  > delete branch na tapos ng ma merge sa master
+- git branch -D nameofbranch
+  > delete branch na di pa na merge sa master
 
 ## docker
 
