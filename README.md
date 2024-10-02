@@ -31,6 +31,8 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > gawa ng branch locally
 - git branch
   > list lahat ng branch
+- git merge <name_of_branch>
+  > merge branch with main locally
 - git branch -d <name_of_branch>
   > delete branch na tapos ng ma merge sa master
 - git branch -D nameofbranch
