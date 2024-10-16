@@ -100,3 +100,9 @@ git, rubymine, rails, and docker kodigo para sa ulianin
   > Remove compiled assets
 - rails assets:precompile
   > Compile all the assets named in config.assets.precompile
+
+## web
+- rails/info/routes
+  > pakita lahat ng routes sa app
+- window + shift + I
+  > inspect dev tools
